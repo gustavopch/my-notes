@@ -2,8 +2,8 @@
 
 **maim** (**Ma**ke **Im**age) is a utility to take screenshots of my desktop.
 
-Repo: https://github.com/naelstrof/maim
-AUR: https://www.archlinux.org/packages/community/x86_64/maim
+- Repo: https://github.com/naelstrof/maim
+- AUR: https://www.archlinux.org/packages/community/x86_64/maim
 
 ## Commands
 
